@@ -2,9 +2,8 @@
 *.py[cod]
 venv/
 .env
-output/
 .vscode/
 
 __pycache__/
 *.pyc
-output/charts/
+
